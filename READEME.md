@@ -1,7 +1,9 @@
 npm run cypress open
 
+ou 
 
-<!-- 
-    Necessário instalar: 
-        
-    -->
+npm run cypress run
+
+
+Para gerar relatórios
+    npm install --save-dev mochawesome
